@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "lcd": "github:calliope-net/lcd#v0.1.5",
-        "pins": "github:calliope-net/pins#v1.5.12",
-        "bit": "github:calliope-net/bit#v1.3.4"
+        "pins": "github:calliope-net/pins#v1.5.12"
     },
     "files": [
         "main.blocks",
