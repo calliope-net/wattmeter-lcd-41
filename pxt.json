@@ -1,0 +1,25 @@
+{
+    "name": "wattmeter-lcd-41",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "lcd": "github:calliope-net/lcd#v0.1.5",
+        "pins": "github:calliope-net/pins#v1.5.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.29",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
